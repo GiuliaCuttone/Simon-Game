@@ -1,2 +1,2 @@
 # Progetto-Reti
-Progetto Arduino SImon Game
+Progetto Arduino Simon Game
