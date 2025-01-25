@@ -1,2 +1,2 @@
-# Progetto-Reti
-Progetto Arduino Simon Game
+# Simon Game
+Progetto di Reti realizzato con Arduino
